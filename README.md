@@ -1,6 +1,8 @@
 # This activity is for the subject computer programming II 
 
+
 FULLNAME: TABUCON, MARY GRACE
+
 YEAR AND SECTION: 2 - 3
 
 Did git is useful to the programmers and developers> yes/ no and why?
